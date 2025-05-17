@@ -76,12 +76,6 @@ Roadmap
 - Stage 5: Build report export functionality.
 - Stage 6 (optional): Develop a web-based interface using Streamlit.
 
-Author
-------
-
-Phemo Den Chaba  
-Email: dchaba@uwaterloo.ca  
-LinkedIn: https://www.linkedin.com/in/phdech/
 
 License
 -------
